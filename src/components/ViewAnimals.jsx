@@ -1,6 +1,8 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const ViewAnimals = () => {
+    <Navbar/>
   return (
     <div>
         <div className="container">

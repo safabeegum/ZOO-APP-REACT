@@ -1,6 +1,8 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const SearchAnimals = () => {
+    <Navbar/>
   return (
     <div>
         <div className="container">
