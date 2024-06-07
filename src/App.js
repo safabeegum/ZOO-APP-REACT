@@ -3,6 +3,7 @@ import './App.css';
 import AddAnimals from './components/AddAnimals';
 import SearchAnimals from './components/SearchAnimals';
 import DeleteAnimals from './components/DeleteAnimals';
+import ViewAnimals from './components/ViewAnimals';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <AddAnimals/>
       <SearchAnimals/>
       <DeleteAnimals/>
+      <ViewAnimals/>
     </div>
   );
 }

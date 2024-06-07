@@ -6,13 +6,13 @@ const ViewAnimals = () => {
         <div className="container">
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                    <div className="row">
+                    <div className="row g-3">
                         <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
                         <div class="card">
-  <img src="https://img.freepik.com/free-photo/majestic-bengal-tiger-fierce-wild-hides-tropical-rainforest-generated-by-artificial-intellingence_25030-63904.jpg?t=st=1717775709~exp=1717779309~hmac=9738aead725d2c5c6193bc380c5258d1db5ab4a031dbbef0d92e824d70382f2b&w=1380" class="card-img-top" alt="...">
+  <img src="https://img.freepik.com/free-photo/amazing-bengal-tiger-nature_475641-1205.jpg?t=st=1717776314~exp=1717779914~hmac=5553d984600588bebee8cab4ad0cc4cd156b85e024cf288433087d0aabe94d7f&w=1060" class="card-img-top" alt="...">
   </img>
   <div class="card-body">
-    <h5 class="card-title"></h5>
+  <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
@@ -70,6 +70,29 @@ const ViewAnimals = () => {
   </img>
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                        </div>
+                        <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
+                        <div class="card">
+  <img src="https://img.freepik.com/free-photo/closeup-shot-ostrich-running-grassy-savanna-plain-namibia_181624-11585.jpg?t=st=1717776479~exp=1717780079~hmac=a2511c6c84fea5dce3c24de4f67a460175a551a8fb3b39a65cc4d80f061cd419&w=996" class="card-img-top" alt="...">
+  </img>
+  <div class="card-body">
+  <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                        </div>
+
+                        <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
+                        <div class="card">
+  <img src="https://img.freepik.com/free-photo/reindeer-standing-grassy-field_181624-6518.jpg?t=st=1717776519~exp=1717780119~hmac=a0e1a0fa43a31e9850ec6f19445835ff7eda8e9db9f85c6c81fd6ed38e9e3f7c&w=1060" class="card-img-top" alt="...">
+  </img>
+  <div class="card-body">
+  <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
