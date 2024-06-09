@@ -28,7 +28,7 @@ const ViewAnimals = () => {
                                 <div class="card">
                                 <img src={value.image} class="card-img-top" alt="..."></img>
                                 <div class="card-body">
-                                <h5 class="card-title">{value.name}</h5>
+                                    
                                 <p class="card-text">ANIMAL NO:{value.animalno}</p>
                                 <p class="card-text">CAGE NO:{value.cageno}</p>
                                 <a href="#" class="btn btn-primary">KNOW MORE</a>
